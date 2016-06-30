@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:2:1-91:12
+	package
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:7:5-9:36
+MERGED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:8:9-57
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:10:5-12:36
+MERGED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:12:9-33
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:11:9-52
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:15:5-69
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:15:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:17:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:24:5-64
+MERGED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:24:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:26:22-78
+application
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:28:5-89:19
+MERGED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:21:5-52:19
+MERGED from [com.android.support:support-v4:23.1.1] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:23.1.1] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:31:9-41
+	android:allowBackup
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:29:9-35
+	android:icon
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:30:9-45
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:32:9-40
+activity#id.tech.dell1force.Activity_Splashscreen
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:33:9-43:20
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:35:13-45
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:34:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:41:27-74
+activity#id.tech.dell1force.Activity_MenuUtama
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:44:9-48:20
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:47:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:46:13-58
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:45:13-65
+activity#id.tech.dell1force.Activity_ScanAbsen
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:50:9-53:20
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:52:13-50
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:51:13-65
+activity#id.tech.dell1force.Activity_InputSellout
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:55:9-60:20
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:59:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:58:13-54
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:57:13-58
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:56:13-68
+activity#id.tech.dell1force.Activity_AddRemarks
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:62:9-66:20
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:65:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:64:13-58
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:63:13-66
+activity#id.tech.dell1force.Activity_AddIssue
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:68:9-72:20
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:71:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:70:13-58
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:69:13-64
+activity#id.tech.dialogs.DialogAbsence
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:74:9-78:20
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:77:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:76:13-57
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:75:13-57
+activity#id.tech.dialogs.DialogLocationVerify
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:80:9-84:20
+	android:screenOrientation
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:83:13-49
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:82:13-57
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:81:13-64
+activity#id.tech.dialogs.UploadImageDialog
+ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:86:9-88:69
+	android:theme
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:88:13-57
+	android:name
+		ADDED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml:87:13-61
+uses-sdk
+INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:support-v4:23.1.1] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v13:23.1.1] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:23.1.1] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:11:19-57
+activity#com.jwetherell.quick_response_code.CaptureActivity
+ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:22:9-31:20
+	android:clearTaskOnLaunch
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:24:13-45
+	android:screenOrientation
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:27:13-50
+	android:label
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:26:13-49
+	android:stateNotNeeded
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:28:13-42
+	android:windowSoftInputMode
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:30:13-60
+	android:configChanges
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:25:13-63
+	android:theme
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:29:13-71
+	android:name
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:23:13-78
+activity#com.jwetherell.quick_response_code.DecoderActivity
+ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:32:9-41:20
+	android:clearTaskOnLaunch
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:34:13-45
+	android:screenOrientation
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:37:13-50
+	android:label
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:36:13-49
+	android:stateNotNeeded
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:38:13-42
+	android:windowSoftInputMode
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:40:13-60
+	android:configChanges
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:35:13-63
+	android:theme
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:39:13-71
+	android:name
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:33:13-78
+activity#com.jwetherell.quick_response_code.EncoderActivity
+ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:42:9-51:20
+	android:clearTaskOnLaunch
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:44:13-45
+	android:screenOrientation
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:47:13-50
+	android:label
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:46:13-49
+	android:stateNotNeeded
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:48:13-42
+	android:windowSoftInputMode
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:50:13-60
+	android:configChanges
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:45:13-63
+	android:theme
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:49:13-71
+	android:name
+		ADDED from [RCS-D1F:libraryAndroidQuickResponseCode:unspecified] /Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/AndroidManifest.xml:43:13-78

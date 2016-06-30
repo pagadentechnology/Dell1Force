@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DELL 1 Force</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="level">
+        <item >Promoter</item>
+        <item >Sales Representative</item>
+        <item >Merchandiser</item>
+        <item >Area Manager</item>
+        <item >Channel Manager</item>
+    </string-array>
+    
+    <string-array name="absence">
+        <item >In</item>
+        <item >Out</item>
+        <item >Day Off</item>        
+        <item >Others</item>
+    </string-array>
+
+</resources>

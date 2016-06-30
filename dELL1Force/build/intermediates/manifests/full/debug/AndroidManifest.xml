@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.tect.dell1force"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="id.tech.dell1force.Activity_Splashscreen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="id.tech.dell1force.Activity_MenuUtama"
+            android:screenOrientation="portrait"
+            android:theme="@style/ToolBarFullscreenStyle" >
+        </activity>
+        <activity
+            android:name="id.tech.dell1force.Activity_ScanAbsen"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="id.tech.dell1force.Activity_InputSellout"
+            android:screenOrientation="portrait"
+            android:theme="@style/ToolBarFullscreenStyle"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name="id.tech.dell1force.Activity_AddRemarks"
+            android:screenOrientation="portrait"
+            android:theme="@style/ToolBarFullscreenStyle" >
+        </activity>
+        <activity
+            android:name="id.tech.dell1force.Activity_AddIssue"
+            android:screenOrientation="portrait"
+            android:theme="@style/ToolBarFullscreenStyle" >
+        </activity>
+        <activity
+            android:name="id.tech.dialogs.DialogAbsence"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyActivityDialogTheme" >
+        </activity>
+        <activity
+            android:name="id.tech.dialogs.DialogLocationVerify"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyActivityDialogTheme" >
+        </activity>
+        <activity
+            android:name="id.tech.dialogs.UploadImageDialog"
+            android:theme="@style/MyActivityDialogTheme" />
+        <activity
+            android:name="com.jwetherell.quick_response_code.CaptureActivity"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/capture_name"
+            android:screenOrientation="landscape"
+            android:stateNotNeeded="true"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <activity
+            android:name="com.jwetherell.quick_response_code.DecoderActivity"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/decoder_name"
+            android:screenOrientation="landscape"
+            android:stateNotNeeded="true"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <activity
+            android:name="com.jwetherell.quick_response_code.EncoderActivity"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/encoder_name"
+            android:screenOrientation="landscape"
+            android:stateNotNeeded="true"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+    </application>
+
+</manifest>

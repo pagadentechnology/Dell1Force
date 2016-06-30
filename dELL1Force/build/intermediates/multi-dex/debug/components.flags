@@ -1,0 +1,70 @@
+-injars '/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar'
+-outjars '/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/multi-dex/debug/componentClasses.jar'
+
+-libraryjars /Users/macbook/Library/Android/sdk/build-tools/23.0.1/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontwarn
+-printconfiguration '/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/multi-dex/debug/components.flags'
+
+
+-keep class id.tech.dell1force.Activity_Splashscreen {
+    <init>();
+}
+
+-keep class id.tech.dell1force.Activity_MenuUtama {
+    <init>();
+}
+
+-keep class id.tech.dell1force.Activity_ScanAbsen {
+    <init>();
+}
+
+-keep class id.tech.dell1force.Activity_InputSellout {
+    <init>();
+}
+
+-keep class id.tech.dell1force.Activity_AddRemarks {
+    <init>();
+}
+
+-keep class id.tech.dell1force.Activity_AddIssue {
+    <init>();
+}
+
+-keep class id.tech.dialogs.DialogAbsence {
+    <init>();
+}
+
+-keep class id.tech.dialogs.DialogLocationVerify {
+    <init>();
+}
+
+-keep class id.tech.dialogs.UploadImageDialog {
+    <init>();
+}
+
+-keep class com.jwetherell.quick_response_code.CaptureActivity {
+    <init>();
+}
+
+-keep class com.jwetherell.quick_response_code.DecoderActivity {
+    <init>();
+}
+
+-keep class com.jwetherell.quick_response_code.EncoderActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

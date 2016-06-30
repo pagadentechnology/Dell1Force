@@ -1,0 +1,602 @@
+[
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/RCS-D1F/libraryAndroidQuickResponseCode/unspecified/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/img_date_from.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/img_date_from.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/background_blue.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/background_blue.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/img_btn_delete.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/img_btn_delete.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/shadow_floating_button.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/shadow_floating_button.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/img_showpass.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/img_showpass.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_delete.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\img_btn_delete.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_branding.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/menu_wp_branding.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/img_btn_refresh.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/img_btn_refresh.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_add.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\img_btn_add.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_wp_issue.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\menu_wp_issue.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_floating_button.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\shadow_floating_button.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_wp_branding.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\menu_wp_branding.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/background_blue_selected.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/background_blue_selected.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/img_loading.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/img_loading.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_blue.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\selector_blue.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/img_btn_delete.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/img_btn_delete.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_branding.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/menu_wp_branding.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\background_blue_selected.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\background_blue_selected.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_history.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/menu_wp_history.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/img_date_from.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/img_date_from.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\dell.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\dell.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/background_blue_selected.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/background_blue_selected.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\background_blue.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\background_blue.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\img_date_to.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\img_date_to.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_issue.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/menu_wp_issue.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\img_icon_password.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\img_icon_password.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_wp_penjualan.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\menu_wp_penjualan.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_input_stok.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/menu_wp_input_stok.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_input_stok.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/menu_wp_input_stok.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/img_icon_password.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/img_icon_password.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_wp_cek_stok.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\menu_wp_cek_stok.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_issue.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/menu_wp_issue.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/img_btn_location.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/img_btn_location.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/img_btn_location.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/img_btn_location.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/dell.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/dell.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/img_date_to.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/img_date_to.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/img_btn_ok.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/img_btn_ok.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_penjualan.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/menu_wp_penjualan.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_wp_logout.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\menu_wp_logout.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_wp_input_stok.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\menu_wp_input_stok.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_logout.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/menu_wp_logout.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/img_btn_add.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/img_btn_add.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/img_icon_password.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/img_icon_password.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/img_btn_ok.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/img_btn_ok.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\img_loading.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\img_loading.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\img_showpass.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\img_showpass.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/img_btn_refresh.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/img_btn_refresh.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/img_showpass.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/img_showpass.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_logout.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/menu_wp_logout.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/background_blue.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/background_blue.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\img_date_from.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\img_date_from.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/img_icon_username.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/img_icon_username.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_web.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/menu_wp_web.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_history.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/menu_wp_history.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_absen.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/menu_wp_absen.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_wp_web.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\menu_wp_web.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/img_icon_username.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/img_icon_username.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\DELL1Force\\libraryAndroidQuickResponseCode\\unspecified\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_web.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/menu_wp_web.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/img_date_to.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/img_date_to.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_cek_stok.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/menu_wp_cek_stok.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_wp_absen.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\menu_wp_absen.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/selector_blue.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/selector_blue.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_ok.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\img_btn_ok.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/selector_blue.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/selector_blue.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_refresh.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\img_btn_refresh.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/shadow_floating_button.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/shadow_floating_button.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/img_btn_add.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/img_btn_add.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_absen.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/menu_wp_absen.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/dell.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/dell.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\img_icon_username.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\img_icon_username.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_cek_stok.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/menu_wp_cek_stok.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/DELL1Force/libraryAndroidQuickResponseCode/unspecified/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/menu_wp_penjualan.png",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/src/main/res/drawable/menu_wp_penjualan.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_wp_history.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\menu_wp_history.png"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/build/intermediates/res/merged/debug/drawable/img_loading.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/dELL1Force/src/main/res/drawable/img_loading.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_location.png",
+        "source": "/Users/macbook/Dropbox/GAWE/DELL PROJECT/GRADLE/DELL1Force/D:\\Workspace_Android_Studio_NEW\\DELL1Force\\dELL1Force\\src\\main\\res\\drawable\\img_btn_location.png"
+    },
+    {
+        "merged": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/macbook/Desktop/Android Studio Repo Workspace/RCS-D1F/dELL1Force/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/drawable/abc_ratingbar_full_material.xml"
+    }
+]
